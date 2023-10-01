@@ -1,8 +1,11 @@
-# minhabio-gcc259
 
 # Eduardo Carvalho Leite
----
 #### Front-end Engineer at Twism
+<p align="center">
+  <img src="foto.jpeg" >
+</p>
+
+---
 
 ### Experiência
 
